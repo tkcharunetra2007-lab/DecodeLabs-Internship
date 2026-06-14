@@ -68,31 +68,78 @@ The Student Grade Calculator is a Java program that calculates the total marks, 
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
+## Project 3: ATM Interface
 
-## Tools Used
+This repository contains my ATM Interface project developed using Java as part of my Java Programming Internship.
+
+### Description
+
+The ATM Interface is a console-based application that simulates basic ATM operations. Users can deposit money, withdraw money, check their account balance, and exit the application through a menu-driven interface.
+
+This project helped me understand Object-Oriented Programming concepts and how real-world banking operations can be implemented using Java.
+
+---
+
+### Features
+
+* Deposit money
+* Withdraw money
+* Check account balance
+* Menu-driven interface
+* Input validation
+* Insufficient balance handling
+
+---
+
+### Concepts Used
+
+* Classes and Objects
+* Encapsulation
+* Constructors
+* Methods
+* Loops
+* Switch Case
+* Conditional Statements
+* Scanner Class
+
+---
+
+
+### Output
+
+![ATM Interface Output](atm-interface-output.png)
+
+---
+
+## Technologies Used
 
 * Java
 * JDK
 * Visual Studio Code
 * GitHub
 
-
-
+---
 
 ## What I Learned
 
-Through these projects, I gained practical experience in:
+Through this project, I learned how to:
 
-* Writing Java programs
-* Working with user input
 * Implementing program logic
 * Using loops and conditional statements
 * Building simple console-based applications
+* Create and use classes in Java
+* Implement encapsulation using private variables
+* Handle user input using Scanner
+* Build menu-driven applications
+* Apply basic banking transaction logic
 
-----------------------------------------------------------------------------------------------------------------------------------
+---
 
 ## Author
 
 T.K. Charunetra
 
 Java Programming Intern
+
+
+
