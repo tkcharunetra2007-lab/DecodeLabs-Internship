@@ -64,7 +64,7 @@ The Student Grade Calculator is a Java program that calculates the total marks, 
 
 ### Output
 
-![Number Game Output](student-grade-output.png)
+![Grade Calculator Output](student-grade-output.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
@@ -110,6 +110,35 @@ This project helped me understand Object-Oriented Programming concepts and how r
 ![ATM Interface Output](atm-interface-output.png)
 
 ---
+## Project 4: Currency Converter
+
+### Description
+
+The Currency Converter is a Java-based application that enables users to convert an amount from one currency to another using predefined exchange rates. The project provides a simple console-based interface where users can select source and target currencies and obtain the converted amount instantly.
+
+### Features
+
+* Convert currencies between USD, INR, EUR, and GBP
+* User-friendly console interface
+* Accurate currency conversion using predefined exchange rates
+* Supports multiple currency selections
+* Displays converted amount clearly
+
+### Concepts Used
+
+* Java Programming
+* Scanner Class
+* Variables and Data Types
+* Conditional Statements (Switch Case)
+* Arithmetic Operations
+* User Input Handling
+* Control Flow Statements
+
+### Output
+![Currency Converter Output](currency-converter-output.png)
+
+
+----
 
 ## Technologies Used
 
